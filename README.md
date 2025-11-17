@@ -1,1 +1,1 @@
-# Fundamentos-de-la-Programaci-n
+Se adjuntan las bibliografías en formato .bib
